@@ -1,7 +1,4 @@
-## Hi mi nombre completo es Emmanuel Ibarra Patrón 👋
 
-
-<h1>Soy licenciado en Física por parte de la Universidad Autonoma de Baja California</h1>
 
 <!--
 **Bugari05/Bugari05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
